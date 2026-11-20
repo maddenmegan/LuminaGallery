@@ -1,0 +1,6 @@
+-keep class com.lumina.gallery.model.** { *; }
+-keep class com.google.mlkit.** { *; }
+-dontwarn com.google.mlkit.**
+-dontwarn com.google.android.gms.**
+-dontwarn kotlin.annotations.**
+-dontwarn javax.annotation.**

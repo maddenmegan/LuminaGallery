@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="shared_clean" path="clean_share/" />
+    <cache-path name="vault_preview" path="vault_preview/" />
+    <cache-path name="pdf_thumbs" path="pdf_thumbs/" />
+    <external-path name="external_files" path="." />
+</paths>
